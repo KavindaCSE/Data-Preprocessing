@@ -7,9 +7,11 @@ c = a + b
 
 print(c)
 
+x = "Hi"
 
 name = "Chamod Kavinda"
 
 print (name)
 
-y = "hello"
+
+y = "hi"
