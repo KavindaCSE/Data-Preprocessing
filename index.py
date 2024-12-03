@@ -11,3 +11,7 @@ print(c)
 name = "Kavinda"
 
 print (name)
+
+age = 23
+
+print(age)
