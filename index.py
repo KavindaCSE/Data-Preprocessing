@@ -8,7 +8,7 @@ c = a + b
 print(c)
 
 
-name = "Kavinda"
+name = "Chamod Kavinda"
 
 print (name)
 
