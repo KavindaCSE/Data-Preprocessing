@@ -7,6 +7,7 @@ c = a + b
 
 print(c)
 
+x = "Hi"
 
 name = "Chamod Kavinda"
 
