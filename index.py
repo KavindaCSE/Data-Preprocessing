@@ -11,3 +11,5 @@ print(c)
 name = "Chamod Kavinda"
 
 print (name)
+
+y = "hello"
